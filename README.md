@@ -15,8 +15,8 @@ Obtain the graph.
 ## Program:
 ```
 #Program to implement the the Logistic Regression Using Gradient Descent.
-#Developed by:- THAMARAISELVAN V
-#RegisterNumber: 212221230115
+#Developed by:- AFSAR JUMAIL S
+#RegisterNumber: 212222240004
 
 import numpy as np
 import matplotlib.pyplot as plt
